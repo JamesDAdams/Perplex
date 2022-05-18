@@ -30,3 +30,8 @@ python perplex.py
 ```
 
 Note: A Discord desktop client must be open on the same device that Perplex is running on.
+
+## Launch the script at startup
+
+### Windows
+-   Create a shortcut from startup.cmd and move it in C:\Users\UserName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
